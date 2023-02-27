@@ -1,6 +1,6 @@
 import * as net from "net"
 
-const ip = ""
+const ip = "10.229.7.47"
 const port = 3000
 
 const server = net.createServer((socket) => {
